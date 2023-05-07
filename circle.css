@@ -1,0 +1,41 @@
+#circle0 {
+	border: 2 px solid red;
+	border-radius: 50px;
+	background:goldenrod;
+	padding: 20px;
+	width: 50px;
+	height: 50px;
+
+}
+#circle1 {
+	border: 2 px solid red;
+	border-radius: 50px;
+	background:khaki;
+	padding: 20px;
+	width: 50px;
+	height: 50px;
+
+}#circle2
+ {
+	border: 2 px solid red;
+	border-radius: 50px;
+	background:gainsboro;
+	padding: 20px;
+	width: 50px;
+	height: 50px;
+
+}
+#circle3
+ {
+	border: 2 px solid red;
+	border-radius: 50px;
+	background:chocolate;
+	padding: 20px;
+	width: 50px;
+	height: 50px;
+
+}
+body
+{
+	background-color: black;
+}
